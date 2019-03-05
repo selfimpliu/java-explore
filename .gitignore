@@ -17,3 +17,5 @@ RELEASE/
 /test/DATA/
 /javadoc/
 ./idea/*
+.idea/workspace.xml
+.idea/
