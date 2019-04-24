@@ -1,0 +1,8 @@
+必要参数
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:HeapDumpPath
+
+bootclasspath
+-verbose gc class jni
+如：-verbose:gc
+
